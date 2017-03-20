@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "152421734221",
+    "firebase_url": "https://givingback-162012.firebaseio.com",
+    "project_id": "givingback-162012",
+    "storage_bucket": "givingback-162012.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152421734221:android:91c84df54b9e8d8b",
+        "android_client_info": {
+          "package_name": "com.givingback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152421734221-1beivgmmt192ehjjrab8tpffuv4f9e1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.givingback",
+            "certificate_hash": "26d7faa9322c0b4818fb3c9db32b1eb5e8d53589"
+          }
+        },
+        {
+          "client_id": "152421734221-371sfbmer6omsekptfd5ikgf3rnc5omt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhvzcmr6WL-jLjhSf8nasSuo-7FXhyvoA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152421734221-371sfbmer6omsekptfd5ikgf3rnc5omt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
